@@ -82,11 +82,10 @@ const INITIAL_WINDOWS: Record<AppID, WindowState> = {
 };
 
 const WALLPAPERS = [
-  "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?ixlib=rb-4.0.3&auto=format&fit=crop&w=2940&q=80", // Sierra
-  "https://images.unsplash.com/photo-1519681393798-2f61f2a55db8?auto=format&fit=crop&w=2940&q=80", // Night Sky
-  "https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&w=2940&q=80", // Ocean
-  "https://images.unsplash.com/photo-1477346611705-65d1883cee1e?auto=format&fit=crop&w=2940&q=80", // Dark Mountains
-  "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?auto=format&fit=crop&w=2940&q=80", // Abstract Blue
+  "/1.jpg", // Sierra
+  "/2.jpg", // Sierra
+  "/3.jpg", // Sierra
+  "/4.jpg", // Sierra
 ];
 
 export const App = () => {
